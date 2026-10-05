@@ -82,3 +82,7 @@ If network access is unavailable or restricted by an enterprise firewall:
    - `words_ru.txt` (or `words_ru.json`)
    - `words_en.txt` (or `words_en.json`)
 3. Execute the binary — it will automatically detect local sources, normalize the data, merge existing lists, and write the final output files to the output/ folder.
+
+## License
+
+[MIT License](./LICENSE). Free to use, modify, and distribute.
