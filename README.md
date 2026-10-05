@@ -17,6 +17,7 @@ Ideal for text classification tasks, language detection, and lightweight spell-c
 ---
 
 ## Output Files
+### **You can download them directly from the repository, without having to launch the application or do anything else.**
 
 After running the executable, four files will be generated in the `output/` directory:
 
